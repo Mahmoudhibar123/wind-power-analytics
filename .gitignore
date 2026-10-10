@@ -1,0 +1,17 @@
+# Environnement Python
+.venv/
+
+# Fichiers temporaires Python
+__pycache__/
+*.py[cod]
+
+# Variables d'environnement et secrets
+.env
+.env.*
+
+# Notebooks Jupyter
+.ipynb_checkpoints/
+
+# Configuration locale des outils
+.vscode/
+.idea/
