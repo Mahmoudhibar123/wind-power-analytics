@@ -15,3 +15,6 @@ __pycache__/
 # Configuration locale des outils
 .vscode/
 .idea/
+
+# Données du projet : conservées localement, non suivies par Git
+data/
